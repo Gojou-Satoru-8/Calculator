@@ -1,0 +1,19 @@
+.calc-button {
+  height: 80px;
+  font-size: 1.5rem;
+}
+.calc-display {
+  height: 100px;
+  font-size: 2rem;
+  padding-right: 15px;
+  background-color: #343a40;
+  color: white;
+  border-radius: 5px;
+  display: flex;
+  align-items: center; /* Vertical alignment */
+  justify-content: end; /* Horizontal alignment to the right */
+}
+.plus-button {
+  height: 172px; /* Two-row height (80px + margin) */
+  font-size: 1.5rem;
+}
