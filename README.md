@@ -67,4 +67,4 @@ This will start a server and automatically open the calculator in your default b
 - **Bootstrap 5** for responsive layout and styling
 - **HTML5 & CSS3** for structure and design
 - **JavaScript** for interactivity
-```
+
